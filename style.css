@@ -1,0 +1,43 @@
+fieldset{
+    background: rgb(181, 214, 224)
+}
+h2{
+    color: rgb(199, 205, 108);
+    font-size: 30px;
+    margin-left: 30%;
+}
+.form_label{
+    margin:10px 5px 10px 10px ;
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 20;
+
+}
+.forminput{
+    margin:10px 5px 10px 10px ;
+    display: flex;
+    padding: 7px;
+    border-radius: 4px;
+    box-sizing: content-box;
+
+}
+.container{
+    margin-left: 30%;
+    border: 2px solid grey;
+
+}
+#sbmt{
+    padding: 6px;
+    cursor: pointer;
+    border-radius: 6px;
+
+    /* color: blanchedalmond; */
+}
+#sbmt:hover{
+    color: black;
+    background: aquamarine;
+}
+img{
+
+    width: 100%;
+}
